@@ -103,6 +103,8 @@ Client:
 **![](https://lh3.googleusercontent.com/p2cOEDQCNLp3JpLTe6fp1I5pLoFDS0CWQVGHvpUGFq3b9SgysXCTXYm9J6a4X_jLpPZYe-V5r7Q4Up046Hq-Jg3_PZRgfDfPX2NrEkcvIIChIeD6UGdSQzdb0OwaRKVFimyC2Etm)**  
 **![](https://lh5.googleusercontent.com/XlCxCF9sYvVZC5IawN_3XtfWISW22cIcP7Eh6qe92J1EgGpj9L8j2s7Vw_aEGjsi5OQl7iYDOxt3VlkA7UyLvTyPh8FO-MOt5E7QmTJoLTZe0EFcTKOWAlguNYqJUmpb_Aqu0GYG)** 
 **Memasang Routing**
+
+
 Untuk routing dapat digunakan config route.sh untuk setiap router yang bersangkutan:
 ```
 #Surabaya-00
