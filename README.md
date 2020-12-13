@@ -93,15 +93,23 @@ Untuk router surabaya perlu menjalankan iptables untuk bisa akses ke jaringan lu
 
 **Setting Interface:**   
 Router:
-**![](https://lh3.googleusercontent.com/IdC2aTibzGrxd7-PwZsfBr3xW0_Uh6wjd1eYTlTXf9Is1UENSd6ptjjQ0njFx4nmq6LXjA5c4AdLbA4W3m2rhL7ONUukBWVrBMkLiid1AcuOfZmHbtPIX-K5Pyt3-Txn4RGK4gOw)**  
-**![](https://lh4.googleusercontent.com/3aiAYt8RA_w0Hyw19zqsY-RHTc-tWunaY3d3id1uZarKb9Zq9ScloEirGqIxyh3Xf3YNo5lIpHt-_8t_tPTIwtepwm6V3luFMw8WqfYSzBaYA8GBEW_DhBTWAjeAuwhErXGzaRKs)**    
-**![](https://lh4.googleusercontent.com/Hmq6PRzqy4Jh_SUXoOgobDTsyJEoSlQKlCKWOVk-vWhLLOjaYQwtWkz75fcLH47P0KwtJmk1j8tel4de1lye1OGCXRGjgJJ6NtPC7Ot6dlHnQqQggjmS9Buw2s3dBPWD07QC-BeN)**  
- **![](https://lh5.googleusercontent.com/rcfQsi3cDKJa0XkfjbB2w_A22V18PS4nQ-75Lnx8o4IAxxEwySvtVIQhBNp1ZKn0CA9fuqt5mzpDfK8Zi_B3WqvrMRSFhInpM0NrgPV6xWgmZlhvG8R9yAz6_HQUQC_uj7gXMCc6)** 
- Server:  
-**![](https://lh6.googleusercontent.com/3kuu0mMM0WsCZeWjCULzc_myrLn_qxZTtCsrJ53AGqzO5-8mMPnStkEBf5U4LuaUoZvd-hKaNBPpT0jVqf9c3_FsCcdv7nuzEI2kHpT7-Elzjfc2Euudu9UzmWSYSFNC3dXNrKAz)**  
+**![](https://lh3.googleusercontent.com/8_hY_1Yh6mZ3Qb2KhrZCkhainOYD88PtTyb8TpNur_tkZRGUXucO-hyE3YD1GvGphMBEHS2l_TNLrhYmEzvqNrefV9ChQ-B_0wBtoBU2nwbazUVbxIjC2s2MNo8ewyb4UaHyTCD-)**    
+**![](https://lh3.googleusercontent.com/pocS-ThGR-jzfBuEcwZKfr58YHo3_iqFJakAMOE5NezH0KcEwz_rhinky_WJVyLMiZoJ3fASzlPReIP-_kHHUK1RhyMFaHBg4X0PFYXb7TO7TfE63HPGnl0cYEhXyUk4ncqcmDOy)**  
+**![](https://lh4.googleusercontent.com/jSTd67DSwxCF4wd31swW--rwAZZx51a4Ah0AYNojBxuccjOq5A8R3__vY1cFXLadXraDvcgwAFMgbGlDSyFfbZZRXmFKdG3av8STxODZ2o7WElIBILpaGGF-OiG8Q35qxFr9m60s)**  
+**![](https://lh4.googleusercontent.com/jJeE5cwt98LS42CzMfTqtUJhGu_3f_QmYqXXCc5ZTwsNschk0LR-enIAZ4JMonisR8GQUjac-LlQi1syR_vqcafPsqE8jH8UDxzH4MgVbiBq-n6o15edkPtpder3GO77RdGjCQgl)**  
+**![](https://lh5.googleusercontent.com/oc-7iLEEIkzXM1tW70kd8nPiSNkAlYaV3osl35k7Lus8AhzvtuP4I5VDN-j_GQwXWPSd7sVnQkE74aCQA7GkWjySWqB3ixDvtflgcHX0alzWkQcueEYlahWJ7o3ihJpnlcyZd-nt)**  
+
+**![](https://lh4.googleusercontent.com/hAxdvGPhofLMMYtfv-hkp_t_0PsWKyiFTnh4_rCtefodBUh57Qk2GZ_LHQci6I-uo8JZ-10FOnDu8Vu6MbRsS8OQG6BYoz3MAzpd0uLqRafs2HTZ0iPOslpLlDOc5oSzMBwv_cQR)**    
+Server:  
+
+
+**![](https://lh4.googleusercontent.com/gfx-_8Kv-oNToi-VEjgOJkub-CbGrMIevGg8SLDISheHczyo7tFhxHgrUecWAeYfSukUPq--Uq_OCi8nOD4uRV44a4v8ibSt1iNle2F93spH8wb9UStJDkjSesyVHUpcaB9xQgfq)**    
 Client:  
-**![](https://lh3.googleusercontent.com/p2cOEDQCNLp3JpLTe6fp1I5pLoFDS0CWQVGHvpUGFq3b9SgysXCTXYm9J6a4X_jLpPZYe-V5r7Q4Up046Hq-Jg3_PZRgfDfPX2NrEkcvIIChIeD6UGdSQzdb0OwaRKVFimyC2Etm)**  
-**![](https://lh5.googleusercontent.com/XlCxCF9sYvVZC5IawN_3XtfWISW22cIcP7Eh6qe92J1EgGpj9L8j2s7Vw_aEGjsi5OQl7iYDOxt3VlkA7UyLvTyPh8FO-MOt5E7QmTJoLTZe0EFcTKOWAlguNYqJUmpb_Aqu0GYG)** 
+
+**![](https://lh4.googleusercontent.com/LhaZXCpH2dp8P0aGYg0HQvIhqS4lLpMi6zojzEBozM5X1IPvnesjzSbC8wjXIYIXYsA819Yt63_Tc5UvQKMLYnKHvsp0ADU57Y1tB_d_D9_7YA6EiXo0kPKSQGT3UNy7gfiDbk44)**    
+**![](https://lh5.googleusercontent.com/vUh0x9-VXszZlBrd2UegdmEUijkJ8q5nuAh-2OTPoo4FRDoqkS0cpPNYC5c0Dr-wTTskemj5g-86CsrL8Iw0sx50P2EfORzrCV8-xT3pTSglW4dPhRNcePw4QL4lNpVv1oh4hjQY)**  
+
+
 **Memasang Routing**
 
 
